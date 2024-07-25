@@ -23,3 +23,4 @@
 
 - branch-2 re test
 - branch-2 commit 1 {start commit of base branch = branch-1 (branch-2 merge into branch-1, resolve conflict )}
+- branch-2 commit 2
