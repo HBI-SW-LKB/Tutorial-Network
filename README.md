@@ -22,3 +22,4 @@
 - branch-2 merge into branch-1, resolve conflict 
 - branch-1 commit 8
 - branch-1 commit 9
+- branch-1 commit 10
