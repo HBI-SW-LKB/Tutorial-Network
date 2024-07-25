@@ -11,3 +11,4 @@
 
 - branch-3 commit 1 (start commit of base branch : main commit 6)
 - branch-3 commit 2
+- branch-3 commit 3
