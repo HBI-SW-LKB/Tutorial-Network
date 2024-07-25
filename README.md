@@ -20,3 +20,4 @@
 - branch-1 commit 6
 - branch-1 commit 7
 - branch-2 merge into branch-1, resolve conflict 
+- branch-1 commit 8
